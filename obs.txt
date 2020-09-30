@@ -1,0 +1,5 @@
+yarn add styled-components styled-icons
+yarn add react-sticky-box 
+yarn add @types/styled-components -D
+
+
