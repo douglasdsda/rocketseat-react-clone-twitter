@@ -7,8 +7,6 @@ import {
   FavoriteBorder,
   Person,
   ExitToApp,
-  LocationOn,
-  Search,
   Rocketseat,
 } from '../../styles/Icons';
 
